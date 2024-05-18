@@ -2,6 +2,8 @@
 
 ## 关于这个项目
 
+> 项目由 Krcc 和 Keyboard 自动生成，本人不对本项目负责
+
 这个项目是便于自己能够快速的创建短链接而写
 
 你需要搭配 [nelsontky/gh-pages-url-shortener][1] 使用
